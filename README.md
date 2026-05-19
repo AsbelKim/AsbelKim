@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bryan Cheru!
+# 👋 Hi, I'm Asbel Kimutai!
 
 Welcome to my GitHub! I’m passionate about building impactful solutions using a variety of modern technologies. Here you’ll find a showcase of my projects, skills, and how to connect with me.
 
@@ -6,10 +6,8 @@ Welcome to my GitHub! I’m passionate about building impactful solutions using 
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryancheru)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bryancheru_isme)
-[![Personal Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://www.tanatradinglabs.com)
-
+[![LinkedIn](: https://www.linkedin.com/in/asbelkimutai)
+[![Upwork](https://www.upwork.com/freelancers/~01102719288a568b07)
 ---
 
 ## 🛠️ Languages & Frameworks
