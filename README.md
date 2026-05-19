@@ -32,11 +32,5 @@ Welcome to my GitHub! I’m passionate about building impactful solutions using 
 
 ---
 
-## 📈 GitHub Stats
-
-![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bryan-cheru&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-cheru&layout=compact&theme=radical)
-
----
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
